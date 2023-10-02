@@ -1,1 +1,1 @@
-# in_class_res_grid
+# mobile-grid
